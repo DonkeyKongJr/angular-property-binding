@@ -6,5 +6,11 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
+  textInput = '';
+  childValue = '';
   title = 'app';
+
+  public updatedChildValue(value: string){
+    this.childValue = value;
+  }
 }
