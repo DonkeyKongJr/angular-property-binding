@@ -1,0 +1,4 @@
+<p>Parent Input is: {{parentInput}} </p>
+<label >Child Component Input: </label>
+<input type="text" [ngModel]="childTextValue" (ngModelChange)="updateOutput($event)">
+
