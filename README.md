@@ -1,5 +1,7 @@
 # AngularPropertyBinding
 
+You can find a more detailed description of property and event binding in Angular 2+ in this blog post [HERE.](https://www.patrickschadler.com/property-event-binding-angular-2/)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.7.
 
 ## Development server
